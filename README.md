@@ -21,5 +21,6 @@ Ejercicios de los temas más básicos de html, css y js
 ## js
 * [JS](https://github.com/hvcesar/mis_practicas_web/blob/master/README.md)
 * [basico-basico-console_log.js]
-* [basico-basico-documen_write.js]
+* [basico-basico-document_write.js]
 * [basico-basico-alert.js]
+* [basico-basico-prompt.js]
