@@ -5,6 +5,7 @@ Ejercicios de los temas más básicos de html, css y js
 ## html
 * [HTML](https://github.com/hvcesar/mis_practicas_web/blob/master/README.md)
 * [basico-basico-estructura_basica.html]
+* [basico-formulario-form_basico.html]
 
 
 ## css
