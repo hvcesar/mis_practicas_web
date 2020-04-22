@@ -8,6 +8,7 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-formulario-form_basico.html]
 * [basico-formulario-form_button.html]
 * [basico-formulario-form_input_button.html]
+* [basico-formulario-form_gen_resum.html]
 
 
 ## css
