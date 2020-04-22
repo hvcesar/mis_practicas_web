@@ -17,6 +17,7 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-basico-nivel_pagina.html]
 * [basico-texto-font_size.html]
 * [basico-texto-font_family.html]
+* [basico-texto-font_style.html]
 
 
 ## js
