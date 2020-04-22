@@ -26,3 +26,5 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-basico-document_write.js]
 * [basico-basico-alert.js]
 * [basico-basico-prompt.js]
+* [operadores-condicionales-mayor_que.js]
+* [operadores-condicionales-mayor_o_igual_que.js]
