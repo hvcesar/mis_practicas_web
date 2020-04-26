@@ -36,13 +36,32 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-texto-font_family.html]
 * [basico-texto-font_style.html]
 
+* [basico-definicion-]
+* [basico-reglas-]
+* [basico-medida-]
+* [basico-color-]
+* [basico-elementos-]
+* [basico-posicionamiento-]
+* [basico-float-]
+* [basico-selectores-]
+* [basico-pseudo_clases-]
+* [basico-pseudo_elementos-]
+* [basico-media_querys-]
+* [basico-flexbox-]
+
 
 ## js
 * [JS](https://github.com/hvcesar/mis_practicas_web/blob/master/README.md)
-* [basico-basico-console_log.js]
-* [basico-basico-document_write.js]
-* [basico-basico-alert.js]
-* [basico-basico-prompt.js]
+* [basico-definicion-console_log.js]
+* [basico-definicion-document_write.js]
+* [basico-definicion-alert.js]
+* [basico-definicion-prompt.js]
 
-* [operadores-condicionales-mayor_que.js]
-* [operadores-condicionales-mayor_o_igual_que.js]
+* [basico-operadores-condicionales-mayor_que.js]
+* [basico-operadores-condicionales-mayor_o_igual_que.js]
+
+* [basico-ciclos-while.js]
+* [basico-ciclos-do_while.js]
+* [basico-ciclos-for.js]
+
+* [basico-funciones-funcion_gen.js]
