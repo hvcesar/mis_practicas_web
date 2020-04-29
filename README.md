@@ -65,3 +65,5 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-ciclos-for.js]
 
 * [basico-funciones-funcion_gen.js]
+
+* [avanzado-array-map.js]
