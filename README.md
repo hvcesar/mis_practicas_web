@@ -21,6 +21,8 @@ Ejercicios de los temas más básicos de html, css y js
 
 * [basico-listas-ordenadas.html]
 * [basico-listas-desordenadas.html]
+* [basico-listas-anidadas.html]
+
 * [basico-tablas-celdas_basicas.html]
 * [basico-tablas-encabezados.html]
 * [basico-tablas-caption.html]
