@@ -11,8 +11,13 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-basico-parrafos.html]
 * [basico-basico-saltos_de_linea.html]
 * [basico-basico-redireccionamiento.html]
+* [basico-basico-redireccionamiento_himself.html]
+* [basico-basico-redireccionamiento_ancla_other_page.html]
 * [basico-basico-redireccionamiento_blank.html]
-* [basico-basico-imganes.html]
+* [basico-basico-imagenes.html]
+* [basico-basico-imagen_a.html]
+
+* [basico-elementos-strong.html]
 
 * [basico-listas-ordenadas.html]
 * [basico-listas-desordenadas.html]
@@ -21,9 +26,11 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-tablas-caption.html]
 
 * [basico-formulario-basico.html]
+
 * [basico-formulario-button.html]
 * [basico-formulario-input_button.html]
 * [basico-formulario-input_button.html]
+
 * [basico-formulario-form_gen_resum.html]
 
 
