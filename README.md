@@ -44,6 +44,8 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-texto-font_size.html]
 * [basico-texto-font_family.html]
 * [basico-texto-font_style.html]
+* [basico-texto-font_weight.html]
+* [basico-texto-font_variant.html]
 
 * [basico-definicion-]
 * [basico-reglas-]
