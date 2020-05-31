@@ -19,7 +19,6 @@ console.log("other_array");
 console.log(other_array);
 let new_my_array = my_arrary.map( (row, indice, _array) => {
 	let flag_other = false;
-	// |||||||||||||||||||||||||||||||||||||||||||
 	flag_other = other_array.find( (__other_array) => {
 		return __other_array.id === row.id;
 	});

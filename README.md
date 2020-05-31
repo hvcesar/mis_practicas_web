@@ -3,10 +3,12 @@ Ejercicios de los temas más básicos de html, css y js
 
 
 
+
 ## html
 * [HTML](https://github.com/hvcesar/mis_practicas_web/blob/master/README.md)
 
 * [basico-basico-estructura_basica.html]
+* [basico-basico-meta.html]
 * [basico-basico-title.html]
 * [basico-basico-titulos.html]
 * [basico-basico-parrafos.html]
@@ -38,6 +40,7 @@ Ejercicios de los temas más básicos de html, css y js
 
 
 
+
 ## css
 * [CSS](https://github.com/hvcesar/mis_practicas_web/blob/master/README.md)
 * [basico-basico-nivel_elemento.html]
@@ -48,6 +51,7 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-texto-font_style.html]
 * [basico-texto-font_weight.html]
 * [basico-texto-font_variant.html]
+* [basico-texto-text.html]
 
 * [basico-definicion-]
 * [basico-reglas-]
@@ -61,6 +65,7 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-pseudo_elementos-]
 * [basico-media_querys-]
 * [basico-flexbox-]
+
 
 
 
