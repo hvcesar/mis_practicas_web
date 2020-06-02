@@ -21,6 +21,7 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-basico-imagen_a.html]
 
 * [basico-elementos-strong.html]
+* [basico-elementos-caracteres.html]
 
 * [basico-listas-ordenadas.html]
 * [basico-listas-desordenadas.html]
