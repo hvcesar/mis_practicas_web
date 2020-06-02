@@ -77,6 +77,8 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-definicion-alert.js]
 * [basico-definicion-prompt.js]
 
+* [basico-variables-var.js]
+
 * [basico-operadores-condicionales-mayor_que.js]
 * [basico-operadores-condicionales-mayor_o_igual_que.js]
 
