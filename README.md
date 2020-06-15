@@ -32,11 +32,11 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-tablas-caption.html]
 
 * [basico-formulario-basico.html]
-
-* [basico-formulario-button.html]
-* [basico-formulario-input_button.html]
-* [basico-formulario-input_button.html]
-
+* [basico-formulario-password.html]
+* [basico-formulario-textarea.html]
+* [basico-formulario-checkbox.html]
+* [basico-formulario-radio.html]
+* [basico-formulario-select.html]
 * [basico-formulario-form_gen_resum.html]
 
 
