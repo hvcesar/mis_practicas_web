@@ -37,6 +37,8 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-formulario-checkbox.html]
 * [basico-formulario-radio.html]
 * [basico-formulario-select.html]
+* [basico-formulario-select_multiple.html]
+* [basico-formulario-button.html]
 * [basico-formulario-form_gen_resum.html]
 
 
