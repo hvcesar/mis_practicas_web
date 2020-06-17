@@ -21,6 +21,9 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-basico-imagen_a.html]
 
 * [basico-elementos-strong.html]
+* [basico-elementos-pre.html]
+* [basico-elementos-div.html]
+* [basico-elementos-span.html]
 * [basico-elementos-caracteres.html]
 
 * [basico-listas-ordenadas.html]
@@ -32,6 +35,7 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-tablas-caption.html]
 
 * [basico-formulario-basico.html]
+* [basico-formulario-label.html]
 * [basico-formulario-password.html]
 * [basico-formulario-textarea.html]
 * [basico-formulario-checkbox.html]
@@ -41,6 +45,9 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-formulario-button.html]
 * [basico-formulario-hidden.html]
 * [basico-formulario-disabled.html]
+* [basico-formulario-readonly.html]
+* [basico-formulario-fieldset_legend.html]
+* [basico-formulario-input_file.html]
 * [basico-formulario-form_gen_resum.html]
 
 
