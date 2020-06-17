@@ -39,6 +39,8 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-formulario-select.html]
 * [basico-formulario-select_multiple.html]
 * [basico-formulario-button.html]
+* [basico-formulario-hidden.html]
+* [basico-formulario-disabled.html]
 * [basico-formulario-form_gen_resum.html]
 
 
