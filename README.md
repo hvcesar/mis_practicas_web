@@ -42,6 +42,7 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-formulario-checkbox.html]
 * [basico-formulario-radio.html]
 * [basico-formulario-select.html]
+* [basico-formulario-select_optgroup.html]
 * [basico-formulario-select_multiple.html]
 * [basico-formulario-button.html]
 * [basico-formulario-hidden.html]
@@ -51,6 +52,7 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-formulario-input_file.html]
 * [basico-formulario-default_value.html]
 * [basico-formulario-tabindex.html]
+* [basico-formulario-input_button.html]
 * [basico-formulario-form_gen_resum.html]
 
 
