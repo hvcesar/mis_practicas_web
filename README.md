@@ -70,11 +70,18 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-texto-font_variant.html]
 * [basico-texto-text.html]
 
-* [basico-definicion-]
+* [basico-definicion-agrupacion.html]
+* [basico-definicion-herencia.html]
+* [basico-definicion-clases.html]
+* [basico-definicion-id.html]
+
+* [basico-elementos-border.html]
+* [basico-elementos-border_trbl.html]
+* [basico-elementos-padding.html]
+
 * [basico-reglas-]
 * [basico-medida-]
 * [basico-color-]
-* [basico-elementos-]
 * [basico-posicionamiento-]
 * [basico-float-]
 * [basico-selectores-]
