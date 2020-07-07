@@ -69,6 +69,7 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-texto-font_weight.html]
 * [basico-texto-font_variant.html]
 * [basico-texto-text.html]
+* [basico-texto-font_resum.html]
 
 * [basico-definicion-agrupacion.html]
 * [basico-definicion-herencia.html]
@@ -79,6 +80,9 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-elementos-border_trbl.html]
 * [basico-elementos-padding.html]
 * [basico-elementos-margin.html]
+* [basico-elementos-border_resum.html]
+* [basico-elementos-padding_resum.html]
+* [basico-elementos-margin_resum.html]
 
 * [basico-reglas-]
 * [basico-medida-]
