@@ -1,6 +1,6 @@
 let size = 7;
 do {
-    console.log(`${size--}`);
+	console.log(`${size--}`);
 } while(size > 0);
 // 7
 // 6
