@@ -93,6 +93,7 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-background-image_url_repeat_y_position_pixe.html]
 * [basico-background-image_url_repeat_y_position_prop.html]
 * [basico-background-image_resum.html]
+* [basico-background-color_rgb.html]
 
 * [basico-reglas-]
 * [basico-medida-]
