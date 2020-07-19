@@ -84,6 +84,16 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-elementos-padding_resum.html]
 * [basico-elementos-margin_resum.html]
 
+* [basico-background-color.html]
+* [basico-background-image_url.html]
+* [basico-background-image_url_no_repeat.html]
+* [basico-background-image_url_repeat_x.html]
+* [basico-background-image_url_repeat_y.html]
+* [basico-background-image_url_repeat_y_position_perc.html]
+* [basico-background-image_url_repeat_y_position_pixe.html]
+* [basico-background-image_url_repeat_y_position_prop.html]
+* [basico-background-image_resum.html]
+
 * [basico-reglas-]
 * [basico-medida-]
 * [basico-color-]
