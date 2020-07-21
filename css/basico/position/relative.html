@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Posición - relative</title>
+	<link rel="stylesheet" href="">
+	<style type="text/css">
+		/*
+		La posición por default es: static
+		*/
+		body {
+			background-color: rgb(0%, 0%, 0%);
+		}
+		#d1 {
+			background-color: rgb(100%, 0%, 0%);
+		}
+		#d2 {
+			background-color: rgb(0%, 100%, 0%);
+			/*
+			El posicionamiento relativo mueve un elemento (div, h1, p etc.) en relación a donde se dispondría en el flujo normal
+			*/
+			position: relative;
+			top: 50px;
+			left: 50px;
+		}
+		#d3 {
+			background-color: rgb(0%, 0%, 100%);
+		}
+	</style>
+</head>
+<body>
+	<div id="d1">
+		<p>Soy un párrafo</p>
+		<p>Soy un párrafo</p>
+		<p>Soy un párrafo</p>
+	</div>
+	<div id="d2">
+		<p>Soy un párrafo</p>
+		<p>Soy un párrafo</p>
+		<p>Soy un párrafo</p>
+	</div>
+	<div id="d3">
+		<p>Soy un párrafo</p>
+		<p>Soy un párrafo</p>
+		<p>Soy un párrafo</p>
+	</div>
+</body>
+</html>
