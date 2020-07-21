@@ -95,6 +95,10 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-background-image_resum.html]
 * [basico-background-color_rgb.html]
 
+* [basico-position-relative.html]
+* [basico-position-relative_inline.html]
+* [basico-position-absolute.html]
+
 * [basico-reglas-]
 * [basico-medida-]
 * [basico-color-]
