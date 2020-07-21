@@ -98,6 +98,7 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-position-relative.html]
 * [basico-position-relative_inline.html]
 * [basico-position-absolute.html]
+* [basico-position-fixed.html]
 
 * [basico-reglas-]
 * [basico-medida-]

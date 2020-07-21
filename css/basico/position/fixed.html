@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>position - fixed</title>
+	<link rel="stylesheet" href="">
+	<style type="text/css">
+		* {
+			margin: 0px;
+			padding: 0px;
+		}
+		#d1 {
+			color: white;
+			background-color: black;
+			width: 100%;
+			height: 50px;
+			/*
+			La posición es en relación a la ventana del navegador
+			*/
+			position: fixed;
+		}
+		#d2 {
+			color: white;
+			background-color: grey;
+			position: fixed;
+			left: 0px;
+			top: 50px;
+			width: 10%;
+			height: 100%;
+		}
+		#d3 {
+			padding: 50px 0px 0px 10%;
+		}
+	</style>
+</head>
+<body>
+	<div id="d1">Header</div>
+	<div id="d2">Sidebar</div>
+	<div id="d3">
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+		<p>Soy un párrafo Soy un párrafo Soy un párrafo Soy un párrafo</p>
+	</div>
+</body>
+</html>
