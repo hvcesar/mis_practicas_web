@@ -8,18 +8,6 @@ let my_arrary = [
 ];
 console.log("###############################");
 let new_array = my_arrary.map( (item, id, full_array) => {
-    // console.log("########## item ##########");
-    // console.log(item);
-    // console.log("########## id ##########");
-    // console.log(id);
-    // console.log("########## item.id ##########");
-    // console.log(item.id);
-    // console.log("########## item.name ##########");
-    // console.log(item.name);
-    // console.log("########## array ##########");
-    // console.log(array);
-    // console.log("########## return ##########");
-    // console.log((item.flag === 1));
     return item.flag === 1 
     ? { "id": item.id, "user": item.name, "status": "TRUE" } 
     : { "id": item.id, "user": item.name, "status": "FALSE" };

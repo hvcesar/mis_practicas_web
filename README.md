@@ -123,8 +123,14 @@ Ejercicios de los temas más básicos de html, css y js
 
 * [basico-variables-var.js]
 
-* [basico-operadores-condicionales-mayor_que.js]
-* [basico-operadores-condicionales-mayor_o_igual_que.js]
+* [basico-condicionales-if.js]
+* [basico-condicionales-if_else.js]
+
+* [basico-operadores-relacionales-mayor_que.js]
+* [basico-operadores-relacionales-mayor_o_igual_que.js]
+* [basico-operadores-aritmeticos-aaaaaaa]
+* [basico-operadores-asignacion-aaaaaaa]
+* [basico-operadores-logicos-aaaaaaa]
 
 * [basico-ciclos-while.js]
 * [basico-ciclos-do_while.js]
@@ -133,3 +139,4 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-funciones-funcion_gen.js]
 
 * [avanzado-array-map.js]
+* [avanzado-array-cruce_dos_array.js]
