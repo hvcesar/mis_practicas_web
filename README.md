@@ -123,14 +123,16 @@ Ejercicios de los temas más básicos de html, css y js
 
 * [basico-variables-var.js]
 
-* [basico-condicionales-if.js]
-* [basico-condicionales-if_else.js]
+* [basico-desiciones-if.js]
+* [basico-desiciones-if_else.js]
+* [basico-desiciones-switch.js]
 
 * [basico-operadores-relacionales-mayor_que.js]
 * [basico-operadores-relacionales-mayor_o_igual_que.js]
+* [basico-operadores-logicos-and.js]
+* [basico-operadores-logicos-or.js]
 * [basico-operadores-aritmeticos-aaaaaaa]
 * [basico-operadores-asignacion-aaaaaaa]
-* [basico-operadores-logicos-aaaaaaa]
 
 * [basico-ciclos-while.js]
 * [basico-ciclos-do_while.js]
