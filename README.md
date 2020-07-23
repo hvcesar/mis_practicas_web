@@ -131,14 +131,19 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-operadores-relacionales-mayor_o_igual_que.js]
 * [basico-operadores-logicos-and.js]
 * [basico-operadores-logicos-or.js]
-* [basico-operadores-aritmeticos-aaaaaaa]
-* [basico-operadores-asignacion-aaaaaaa]
+* [basico-operadores-aritmeticos-]
+* [basico-operadores-asignacion-]
 
 * [basico-ciclos-while.js]
 * [basico-ciclos-do_while.js]
 * [basico-ciclos-for.js]
 
-* [basico-funciones-funcion_gen.js]
+* [basico-funciones-clasico-funcion.js]
+* [basico-funciones-clasico-funcion_parametro.js]
+* [basico-funciones-clasico-funcion_return.js]
+* [basico-funciones-clasico-funcion_arguments.js]
+* [basico-funciones-clasico-funcion_anidadas.js]
+* [basico-funciones-clasico-funcion_gen.js]
 
 * [avanzado-array-map.js]
 * [avanzado-array-cruce_dos_array.js]
