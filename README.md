@@ -143,5 +143,7 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-funciones-clasico-funcion_anidadas.js]
 * [basico-funciones-clasico-funcion_gen.js]
 
+* [basico-array-array.js]
+
 * [avanzado-array-map.js]
 * [avanzado-array-cruce_dos_array.js]
