@@ -102,8 +102,6 @@ Ejercicios de los temas más básicos de html, css y js
 
 * [basico-reglas-]
 * [basico-medida-]
-* [basico-color-]
-* [basico-posicionamiento-]
 * [basico-float-]
 * [basico-selectores-]
 * [basico-pseudo_clases-]
@@ -134,9 +132,9 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-operadores-aritmeticos-]
 * [basico-operadores-asignacion-]
 
-* [basico-ciclos-while.js]
-* [basico-ciclos-do_while.js]
-* [basico-ciclos-for.js]
+* [basico-ciclos_generales-while.js]
+* [basico-ciclos_generales-do_while.js]
+* [basico-ciclos_generales-for.js]
 
 * [basico-funciones-clasico-funcion.js]
 * [basico-funciones-clasico-funcion_parametro.js]

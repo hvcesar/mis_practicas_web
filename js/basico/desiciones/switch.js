@@ -1,5 +1,5 @@
-let name = "César";
-let final = "";
+let name 		= "César";
+let final 	= "";
 switch(name) {
 	case "César":
 		final = "TRUE";
