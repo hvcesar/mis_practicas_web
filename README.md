@@ -147,3 +147,4 @@ Ejercicios de los temas más básicos de html, css y js
 
 * [avanzado-array-map.js]
 * [avanzado-array-cruce_dos_array.js]
+* [avanzado-objetos-literales.js]
