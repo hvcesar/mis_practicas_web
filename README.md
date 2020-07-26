@@ -124,6 +124,7 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-desiciones-if.js]
 * [basico-desiciones-if_else.js]
 * [basico-desiciones-switch.js]
+* [basico-desiciones-ternario.js]
 
 * [basico-operadores-relacionales-mayor_que.js]
 * [basico-operadores-relacionales-mayor_o_igual_que.js]
@@ -131,6 +132,8 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-operadores-logicos-or.js]
 * [basico-operadores-aritmeticos-]
 * [basico-operadores-asignacion-]
+* [basico-operadores-igualdad-valor.js]
+* [basico-operadores-igualdad-valor_tipo.js]
 
 * [basico-ciclos_generales-while.js]
 * [basico-ciclos_generales-do_while.js]
@@ -142,6 +145,7 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-funciones-clasico-funcion_arguments.js]
 * [basico-funciones-clasico-funcion_anidadas.js]
 * [basico-funciones-clasico-funcion_gen.js]
+* [basico-funciones-globales-isNaN.js]
 
 * [basico-array-array.js]
 
