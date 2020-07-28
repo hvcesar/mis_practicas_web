@@ -153,7 +153,17 @@ Ejercicios de los temas más básicos de html, css y js
 * [basico-array-new_array_length.js]
 * [basico-array-new_array_parametros.js]
 * [basico-array-new_way_void.js]
+* [basico-array-metodos-push.js]
+* [basico-array-metodos-pop.js]
 
 * [avanzado-array-map.js]
 * [avanzado-array-cruce_dos_array.js]
 * [avanzado-objetos-literales.js]
+
+
+
+
+## html_css_js
+* [html_css_js](https://github.com/hvcesar/mis_practicas_web/blob/master/README.md)
+
+* [slider-slider.html]
