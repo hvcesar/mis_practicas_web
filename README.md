@@ -5,20 +5,20 @@ Ejercicios de los temas más básicos de html, css y js
 
 
 ## html
-* [******HTML](https://github.com/hvcesar/mis_practicas_web/blob/master/README.md)
+* [****** HTML](https://github.com/hvcesar/mis_practicas_web/blob/master/README.md)
 
-* [****** Estructura básica de un archivo html](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/estructura_basica.html)
-* [******basico-basico-meta.html]
-* [******basico-basico-title.html]
-* [******basico-basico-titulos.html]
-* [******basico-basico-parrafos.html]
-* [******basico-basico-saltos_de_linea.html]
-* [******basico-basico-redireccionamiento.html]
-* [******basico-basico-redireccionamiento_himself.html]
-* [******basico-basico-redireccionamiento_ancla_other_page.html]
-* [******basico-basico-redireccionamiento_blank.html]
-* [******basico-basico-imagenes.html]
-* [******basico-basico-imagen_a.html]
+* [r***** Estructura básica de un archivo html](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/estructura_basica.html)
+* [r***** Tags meta básicos](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/meta.html)
+* [r***** Título de una pestaña](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/title.html)
+* [r***** Títulos](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/titulos.html)
+* [r***** Párrafos](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/parrafos.html)
+* [r***** Saltos de linea - Enter](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/saltos_de_linea.html)
+* [r***** Redireccionamiento a otra página](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/redireccionamiento.html)
+* [r***** Redireccionamiento a una parte de la misma página](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/redireccionamiento_himself.html)
+* [r***** Redireccionamiento en una parte específica de otra página](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/redireccionamiento_ancla_other_page.html)
+* [r***** Redireccionamiento abriendo una nueva pestaña](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/redireccionamiento_blank.html)
+* [r***** Imagen](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/imagenes.html)
+* [r***** Imagen con link](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/imagen_a.html)
 
 * [******basico-elementos-strong.html]
 * [******basico-elementos-pre.html]
