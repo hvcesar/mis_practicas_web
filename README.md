@@ -15,18 +15,18 @@ Ejercicios de los temas más básicos de html, css y js
 * [Imagen](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/imagenes.html)
 * [Imagen con link](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/imagen_a.html)
 
-* [Strong](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/elementos/strong.html)
-* [Pre](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/elementos/pre.html)
-* [Div](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/elementos/div.html)
-* [Span](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/elementos/span.html)
-* [Caracteres especiales](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/elementos/caracteres.html)
-* [Iframe](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/elementos/iframe.html)
+* [Elemento - Strong](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/elementos/strong.html)
+* [Elemento - Pre](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/elementos/pre.html)
+* [Elemento - Div](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/elementos/div.html)
+* [Elemento - Span](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/elementos/span.html)
+* [Elemento - Caracteres especiales](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/elementos/caracteres.html)
+* [Elemento - Iframe](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/elementos/iframe.html)
 
-* [Listas ordenadas](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/listas/ordenadas.html)
-* [Listas desordenadas](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/listas/desordenadas.html)
-* [Listas anidadas](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/listas/anidadas.html)
+* [Listas - Ordenada](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/listas/ordenadas.html)
+* [Listas - Desordenada](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/listas/desordenadas.html)
+* [Listas - Anidada](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/listas/anidadas.html)
 
-* [Tabla básica](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/tablas/celdas_basicas.html)
+* [Tabla - Básico](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/tablas/celdas_basicas.html)
 * [Tabla - Encabezado](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/tablas/encabezados.html)
 * [Tabla - Caption](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/tablas/caption.html)
 
@@ -51,102 +51,103 @@ Ejercicios de los temas más básicos de html, css y js
 * [Form - Resumido EN PROCESO](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/formulario/gen_resum.html)
 
 ## css
-* [basico-basico-nivel_elemento.html]
-* [basico-basico-nivel_pagina.html]
+* [Definición - Nivel elemento](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/basico/nivel_elemento.html)
+* [Definición - Nivel página](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/basico/nivel_pagina.html)
 
-* [basico-texto-font_size.html]
-* [basico-texto-font_family.html]
-* [basico-texto-font_style.html]
-* [basico-texto-font_weight.html]
-* [basico-texto-font_variant.html]
-* [basico-texto-text.html]
-* [basico-texto-font_resum.html]
+* [Id](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/definicion/id.html)
+* [Clases](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/definicion/clases.html)
+* [Herencia](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/definicion/herencia.html)
+* [Agrupación de elementos](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/definicion/agrupacion.html)
 
-* [basico-definicion-agrupacion.html]
-* [basico-definicion-herencia.html]
-* [basico-definicion-clases.html]
-* [basico-definicion-id.html]
+* [Fuente - Family](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/texto/font_family.html)
+* [Fuente - Size](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/texto/font_size.html)
+* [Fuente - Style](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/texto/font_style.html)
+* [Fuente - Weight](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/texto/font_weight.html)
+* [Fuente - Variant](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/texto/font_variant.html)
+* [Fuente - Resumido](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/texto/font_resum.html)
 
-* [basico-elementos-border.html]
-* [basico-elementos-border_trbl.html]
-* [basico-elementos-padding.html]
-* [basico-elementos-margin.html]
-* [basico-elementos-border_resum.html]
-* [basico-elementos-padding_resum.html]
-* [basico-elementos-margin_resum.html]
+* [Texto - Text Resumido](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/texto/text.html)
+* [Texto - Unidades de medida](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/texto/unidades_medida.html)
 
-* [basico-background-color.html]
-* [basico-background-image_url.html]
-* [basico-background-image_url_no_repeat.html]
-* [basico-background-image_url_repeat_x.html]
-* [basico-background-image_url_repeat_y.html]
-* [basico-background-image_url_repeat_y_position_perc.html]
-* [basico-background-image_url_repeat_y_position_pixe.html]
-* [basico-background-image_url_repeat_y_position_prop.html]
-* [basico-background-image_resum.html]
-* [basico-background-color_rgb.html]
+* [Caja - Border - style - width - color](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/elementos/border.html)
+* [Caja - Border - Top - Left - Right - Bottom](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/elementos/border_trbl..html)
+* [Caja - Padding](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/elementos/padding.html)
+* [Caja - Margin](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/elementos/margin.html)
+* [Caja - Border Resumido](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/elementos/border_resum.html)
+* [Caja - Padding Resumido](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/elementos/padding_resum.html)
+* [Caja - Margin Resumido](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/elementos/margin_resum.html)
 
-* [basico-position-relative.html]
-* [basico-position-relative_inline.html]
-* [basico-position-absolute.html]
-* [basico-position-fixed.html]
+* [Background - Color](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/background/color.html)
+* [Background - Color RGB](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/background/color_rgb.html)
+* [Background - Imagen](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/background/image_url.html)
+* [Background - Imagen No Repetir](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/background/image_url_no_repeat.html)
+* [Background - Imagen Repetida Horizontalmente](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/background/image_url_repeat_x.html)
+* [Background - Imagen Repetida Verticalmente](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/background/image_url_repeat_y.html)
+* [Background - Imagen Posición Con Porcentaje](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/background/image_url_no_repeat_position_perc.html)
+* [Background - Imagen Posición con Pixeles](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/background/image_url_no_repeat_position_pixe.html)
+* [Background - Imagen Posición TRBL](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/background/image_url_no_repeat_position_prop.html)
+* [Background - Imagen Resumido](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/background/image_resum.html)
 
-* [basico-reglas-]
-* [basico-medida-]
-* [basico-float-]
-* [basico-selectores-]
-* [basico-pseudo_clases-]
-* [basico-pseudo_elementos-]
-* [basico-media_querys-]
-* [basico-flexbox-]
+* [Posición - Relative - Flujo normal](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/position/relative.html)
+* [Posición - Relative - Elementos de linea](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/position/relative_inline.html)
+* [Posición - Absolute - Flujo en base a la página](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/position/absolute.html)
+* [Posición - Fixed - Flujo en relación a la ventana del navegador](https://github.com/hvcesar/mis_practicas_web/blob/master/css/basico/position/fixed.html)
+
+* [reglas - EN_PROCESO]
+* [float - EN_PROCESO]
+* [selectores - EN_PROCESO]
+* [pseudo_clases - EN_PROCESO]
+* [pseudo_elementos - EN_PROCESO]
+* [media_querys - EN_PROCESO]
+* [flexbox - EN_PROCESO]
 
 ## js
-* [basico-definicion-console_log.js]
-* [basico-definicion-document_write.js]
-* [basico-definicion-alert.js]
-* [basico-definicion-prompt.js]
+* [Salida de datos - Consola](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/definicion/console_log.js)
+* [Salida de datos - En el documento de la página](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/definicion/document_write.js)
+* [Salida de datos - Alerta](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/definicion/alert.js)
+* [Entrada de datos - Ventana](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/definicion/prompt.js)
 
-* [basico-variables-var.js]
+* [Variables - Variable var](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/variables/var.js)
 
-* [basico-desiciones-if.js]
-* [basico-desiciones-if_else.js]
-* [basico-desiciones-switch.js]
-* [basico-desiciones-ternario.js]
+* [Toma de desiciones - If](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/desiciones/if.js)
+* [Toma de desiciones - If else](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/desiciones/if_else.js)
+* [Toma de desiciones - Switch](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/desiciones/switch.js)
+* [Toma de desiciones - Operador ternario](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/desiciones/ternario.js)
 
-* [basico-operadores-relacionales-mayor_que.js]
-* [basico-operadores-relacionales-mayor_o_igual_que.js]
-* [basico-operadores-logicos-and.js]
-* [basico-operadores-logicos-or.js]
-* [basico-operadores-aritmeticos-]
-* [basico-operadores-asignacion-]
-* [basico-operadores-igualdad-valor.js]
-* [basico-operadores-igualdad-valor_tipo.js]
+* [Operador - Relacional mayor que]
+* [Operador - Relacional menor que]
+* [Operador - Lógico And]
+* [Operador - Lógico Or]
+* [Operador - Aritmeticos EN_PROCESO]
+* [Operador - Asignación EN_PROCESO]
+* [Operador - Igualdad de valor]
+* [Operador - Igualdad de tipo y valor]
 
-* [basico-ciclos_generales-while.js]
-* [basico-ciclos_generales-do_while.js]
-* [basico-ciclos_generales-for.js]
-* [basico-ciclos_generales-for_in.js]
+* [Iteración - while]
+* [Iteración - do_while]
+* [Iteración - for]
+* [Iteración - for_in]
 
-* [basico-funciones-clasico-funcion.js]
-* [basico-funciones-clasico-funcion_parametro.js]
-* [basico-funciones-clasico-funcion_return.js]
-* [basico-funciones-clasico-funcion_arguments.js]
-* [basico-funciones-clasico-funcion_anidadas.js]
-* [basico-funciones-clasico-funcion_gen.js]
-* [basico-funciones-globales-isNaN.js]
-* [basico-funciones-globales-isFinite.js]
+* [basico-funciones-clasico-funcion]
+* [basico-funciones-clasico-funcion_parametro]
+* [basico-funciones-clasico-funcion_return]
+* [basico-funciones-clasico-funcion_arguments]
+* [basico-funciones-clasico-funcion_anidadas]
+* [basico-funciones-clasico-funcion_gen]
+* [basico-funciones-globales-isNaN]
+* [basico-funciones-globales-isFinite]
 
-* [basico-array-array.js]
-* [basico-array-new_array.js]
-* [basico-array-new_array_length.js]
-* [basico-array-new_array_parametros.js]
-* [basico-array-new_way_void.js]
-* [basico-array-metodos-push.js]
-* [basico-array-metodos-pop.js]
+* [basico-array-array]
+* [basico-array-new_array]
+* [basico-array-new_array_length]
+* [basico-array-new_array_parametros]
+* [basico-array-new_way_void]
+* [basico-array-metodos-push]
+* [basico-array-metodos-pop]
 
-* [avanzado-array-map.js]
-* [avanzado-array-cruce_dos_array.js]
-* [avanzado-objetos-literales.js]
+* [avanzado-array-map]
+* [avanzado-array-cruce_dos_array]
+* [avanzado-objetos-literales]
 
 ## html_css_js
 * [slider-slider.html]
