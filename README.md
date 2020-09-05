@@ -114,40 +114,47 @@ Ejercicios de los temas más básicos de html, css y js
 * [Toma de desiciones - Switch](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/desiciones/switch.js)
 * [Toma de desiciones - Operador ternario](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/desiciones/ternario.js)
 
-* [Operador - Relacional mayor que]
-* [Operador - Relacional menor que]
-* [Operador - Lógico And]
-* [Operador - Lógico Or]
+* [Operador - Relacional mayor que](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/operadores/relacionales/mayor_que.js)
+* [Operador - Relacional mayor o igual que](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/operadores/relacionales/mayor_o_igual_que.js)
+* [Operador - Relacional menor que EN_PROCESO]
+* [Operador - Relacional menor o igual que EN_PROCESO]
+* [Operador - Lógico And](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/operadores/logicos/and.js)
+* [Operador - Lógico Or](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/operadores/logicos/or.js)
 * [Operador - Aritmeticos EN_PROCESO]
 * [Operador - Asignación EN_PROCESO]
-* [Operador - Igualdad de valor]
-* [Operador - Igualdad de tipo y valor]
+* [Operador - Igualdad de valor](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/operadores/igualdad/valor.js)
+* [Operador - Igualdad de tipo y valor](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/operadores/igualdad/valor_tipo.js)
 
-* [Iteración - while]
-* [Iteración - do_while]
-* [Iteración - for]
-* [Iteración - for_in]
+* [Iteración - While](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/ciclos_generales/while.js)
+* [Iteración - Do while](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/ciclos_generales/do_while.js)
+* [Iteración - For](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/ciclos_generales/for.js)
+* [Iteración - For in](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/ciclos_generales/for_in.js)
 
-* [basico-funciones-clasico-funcion]
-* [basico-funciones-clasico-funcion_parametro]
-* [basico-funciones-clasico-funcion_return]
-* [basico-funciones-clasico-funcion_arguments]
-* [basico-funciones-clasico-funcion_anidadas]
-* [basico-funciones-clasico-funcion_gen]
-* [basico-funciones-globales-isNaN]
-* [basico-funciones-globales-isFinite]
+* [Función - Básico](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/funciones/clasico/funcion.js)
+* [Función - Parámetros](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/funciones/clasico/funcion_parametro.js)
+* [Función - Retorno de valor](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/funciones/clasico/funcion_return.js)
+* [Función - Keywork arguments](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/funciones/clasico/funcion_arguments.js)
+* [Función - Funciones anidadas](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/funciones/clasico/funcion_anidadas.js)
+* [Función - Función general](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/funciones/clasico/funcion_gen.js)
+* [Funciones globales - isNaN](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/funciones/globales/isNaN.js)
+* [Funciones globales - isFinite](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/funciones/globales/isFinite.js)
 
-* [basico-array-array]
-* [basico-array-new_array]
-* [basico-array-new_array_length]
-* [basico-array-new_array_parametros]
-* [basico-array-new_way_void]
-* [basico-array-metodos-push]
-* [basico-array-metodos-pop]
+* [Arreglos - Array](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/array/array.js)
+* [Arreglos - New array](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/array/new_array.js)
+* [Arreglos - Tamaño del array](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/array/new_array_length.js)
+* [Arreglos - New array Parámetros](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/array/new_array_parametros.js)
+* [Arreglos - Nueva forma de crear un arreglo](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/array/new_way_void.js)
+* [Arreglos - Métodos - Push - Agregando item al final del arreglo](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/array/metodos.js/push.js)
+* [Arreglos - Métodos - Pop - Eliminar item al final del arreglo](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/array/metodos.js/pop.js)
+* [Arreglos - Métodos - Shift - Eliminar item al principio del arreglo](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/array/metodos.js/shift.js)
+* [Arreglos - Métodos - Unshift - Agregar item al principio del arreglo](https://github.com/hvcesar/mis_practicas_web/blob/master/js/basico/array/metodos.js/unshift.js)
 
-* [avanzado-array-map]
-* [avanzado-array-cruce_dos_array]
-* [avanzado-objetos-literales]
+* [Arreglo Avanzado - Map](https://github.com/hvcesar/mis_practicas_web/blob/master/js/avanzado/array/map.js)
+
+* [Objetos - Básico](https://github.com/hvcesar/mis_practicas_web/blob/master/js/avanzado/objetos/literales.js)
 
 ## html_css_js
-* [slider-slider.html]
+* [Slider](https://github.com/hvcesar/mis_practicas_web/blob/master/html_css_js/slider/slider.html)
+
+## JS Ejercicios
+* [Cruzar arreglos](https://github.com/hvcesar/mis_practicas_web/blob/master/js/avanzado/array/cruce_dos_arrays.js)
