@@ -1,6 +1,4 @@
 
-
-* [Estructura básica de un archivo html](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/estructura_basica.html)
 * [Tags meta básicos](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/meta.html)
 * [Título de una pestaña](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/title.html)
 * [Títulos](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/titulos.html)
