@@ -1,8 +1,7 @@
 
 * [Tags meta básicos](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/meta.html)
-* [Título de una pestaña](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/title.html)
-* [Títulos](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/titulos.html)
-* [Párrafos](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/parrafos.html)
+
+
 * [Saltos de linea - Enter](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/saltos_de_linea.html)
 * [Redireccionamiento a otra página](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/redireccionamiento.html)
 * [Redireccionamiento a una parte de la misma página](https://github.com/hvcesar/mis_practicas_web/blob/master/html/basico/basico/redireccionamiento_himself.html)
