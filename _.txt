@@ -2,8 +2,6 @@
 * [Tags meta básicos](/html/basico/basico/meta.html)
 
 
-* [Saltos de linea - Enter](/html/basico/basico/saltos_de_linea.html)
-
 * [Redireccionamiento a otra página](/html/basico/basico/redireccionamiento.html)
 * [Redireccionamiento a una parte de la misma página](/html/basico/basico/redireccionamiento_himself.html)
 * [Redireccionamiento en una parte específica de otra página](/html/basico/basico/redireccionamiento_ancla_other_page.html)

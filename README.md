@@ -7,3 +7,4 @@ Ejercicios de los temas más básicos de html, css y js
 * [Título de una pestaña](/html/basico/basico/title.html)
 * [Títulos](/html/basico/basico/titulos.html)
 * [Párrafos](/html/basico/basico/parrafos.html)
+* [Saltos de linea - Enter](/html/basico/basico/saltos_de_linea.html)
