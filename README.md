@@ -9,3 +9,6 @@ Ejercicios de los temas más básicos de html, css y js
 * [Párrafos](/html/basico/basico/parrafos.html)
 * [Saltos de linea - Enter](/html/basico/basico/saltos_de_linea.html)
 * [Redireccionamiento a otra página](/html/basico/basico/redireccionamiento.html)
+
+#### Elementos
+* [Elemento - Div](/html/basico/elementos/div.html)

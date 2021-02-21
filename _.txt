@@ -10,7 +10,6 @@
 
 * [Elemento - Strong](/html/basico/elementos/strong.html)
 * [Elemento - Pre](/html/basico/elementos/pre.html)
-* [Elemento - Div](/html/basico/elementos/div.html)
 * [Elemento - Span](/html/basico/elementos/span.html)
 * [Elemento - Caracteres especiales](/html/basico/elementos/caracteres.html)
 * [Elemento - Iframe](/html/basico/elementos/iframe.html)
