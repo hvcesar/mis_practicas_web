@@ -1,8 +1,6 @@
 
 * [Tags meta básicos](/html/basico/basico/meta.html)
 
-
-* [Redireccionamiento a otra página](/html/basico/basico/redireccionamiento.html)
 * [Redireccionamiento a una parte de la misma página](/html/basico/basico/redireccionamiento_himself.html)
 * [Redireccionamiento en una parte específica de otra página](/html/basico/basico/redireccionamiento_ancla_other_page.html)
 * [Redireccionamiento abriendo una nueva pestaña](/html/basico/basico/redireccionamiento_blank.html)
