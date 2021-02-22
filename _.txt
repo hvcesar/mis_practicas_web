@@ -14,7 +14,6 @@
 * [Elemento - Caracteres especiales](/html/basico/elementos/caracteres.html)
 * [Elemento - Iframe](/html/basico/elementos/iframe.html)
 
-* [Listas - Ordenada](/html/basico/listas/ordenadas.html)
 * [Listas - Desordenada](/html/basico/listas/desordenadas.html)
 * [Listas - Anidada](/html/basico/listas/anidadas.html)
 

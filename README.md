@@ -12,3 +12,6 @@ Ejercicios de los temas más básicos de html, css y js
 
 #### Elementos
 * [Elemento - Div](/html/basico/elementos/div.html)
+
+#### Listas
+* [Listas ordenadas](/html/basico/listas/ordenadas.html)
