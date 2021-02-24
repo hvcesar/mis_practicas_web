@@ -1,40 +1,13 @@
 
-* [Tags meta básicos](/html/basico/basico/meta.html)
-
-* [Redireccionamiento a una parte de la misma página](/html/basico/basico/redireccionamiento_himself.html)
-* [Redireccionamiento en una parte específica de otra página](/html/basico/basico/redireccionamiento_ancla_other_page.html)
-* [Redireccionamiento abriendo una nueva pestaña](/html/basico/basico/redireccionamiento_blank.html)
-
 * [Imagen](/html/basico/basico/imagenes.html)
 * [Imagen con link](/html/basico/basico/imagen_a.html)
 
-* [Elemento - Strong](/html/basico/elementos/strong.html)
-* [Elemento - Pre](/html/basico/elementos/pre.html)
-* [Elemento - Span](/html/basico/elementos/span.html)
-* [Elemento - Caracteres especiales](/html/basico/elementos/caracteres.html)
-* [Elemento - Iframe](/html/basico/elementos/iframe.html)
-
-* [Listas - Anidada](/html/basico/listas/anidadas.html)
-
 * [Form - Básico](/html/basico/formulario/basico.html)
-* [Form - Label](/html/basico/formulario/label.html)
-* [Form - Textarea](/html/basico/formulario/textarea.html)
-* [Form - Password](/html/basico/formulario/password.html)
-* [Form - Checkbox](/html/basico/formulario/checkbox.html)
-* [Form - Radio](/html/basico/formulario/radio.html)
-* [Form - Selección básica](/html/basico/formulario/select.html)
-* [Form - Grupo de selección](/html/basico/formulario/select_optgroup.html)
-* [Form - Selección múltiple](/html/basico/formulario/select_multiple.html)
-* [Form - Botón](/html/basico/formulario/button.html)
-* [Form - Inputs ocultos](/html/basico/formulario/hidden.html)
-* [Form - Desabilitar elementos](/html/basico/formulario/disabled.html)
-* [Form - Solo lectura](/html/basico/formulario/readonly.html)
-* [Form - Fieldset](/html/basico/formulario/fieldset_legend.html)
-* [Form - Input file](/html/basico/formulario/input_file.html)
-* [Form - Valores por default](/html/basico/formulario/default_value.html)
-* [Form - Orden con tabulador](/html/basico/formulario/tabindex.html)
-* [Form - Input button](/html/basico/formulario/input_button.html)
 * [Form - Resumido EN PROCESO](/html/basico/formulario/gen_resum.html)
+
+
+
+
 
 ## css
 * [Definición - Nivel elemento](/css/basico/basico/nivel_elemento.html)
@@ -86,6 +59,10 @@
 * [pseudo_elementos - EN_PROCESO]
 * [media_querys - EN_PROCESO]
 * [flexbox - EN_PROCESO]
+
+
+
+
 
 ## js
 * [Salida de datos - Consola](/js/basico/definicion/console_log.js)
@@ -139,8 +116,18 @@
 
 * [Objetos - Básico](/js/avanzado/objetos/literales.js)
 
+
+
+
+
+
 ## html_css_js
 * [Slider](/html_css_js/slider/slider.html)
+
+
+
+
+
 
 ## JS Ejercicios
 * [Cruzar arreglos](/js/avanzado/array/cruce_dos_arrays.js)
