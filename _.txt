@@ -14,12 +14,7 @@
 * [Elemento - Caracteres especiales](/html/basico/elementos/caracteres.html)
 * [Elemento - Iframe](/html/basico/elementos/iframe.html)
 
-* [Listas - Desordenada](/html/basico/listas/desordenadas.html)
 * [Listas - Anidada](/html/basico/listas/anidadas.html)
-
-* [Tabla - Básico](/html/basico/tablas/celdas_basicas.html)
-* [Tabla - Encabezado](/html/basico/tablas/encabezados.html)
-* [Tabla - Caption](/html/basico/tablas/caption.html)
 
 * [Form - Básico](/html/basico/formulario/basico.html)
 * [Form - Label](/html/basico/formulario/label.html)
