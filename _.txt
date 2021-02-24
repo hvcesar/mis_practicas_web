@@ -2,7 +2,6 @@
 * [Imagen](/html/basico/basico/imagenes.html)
 * [Imagen con link](/html/basico/basico/imagen_a.html)
 
-* [Form - Básico](/html/basico/formulario/basico.html)
 * [Form - Resumido EN PROCESO](/html/basico/formulario/gen_resum.html)
 
 

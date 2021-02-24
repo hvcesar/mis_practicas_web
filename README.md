@@ -19,3 +19,6 @@ Ejercicios de los temas más básicos de html, css y js
 
 #### Tablas
 * [Default](/html/basico/tablas/celdas_basicas.html)
+
+#### Formulario
+* [Básico](/html/basico/formulario/basico.html)
