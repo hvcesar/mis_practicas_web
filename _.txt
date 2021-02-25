@@ -4,6 +4,18 @@
 
 * [Form - Resumido EN PROCESO](/html/basico/formulario/gen_resum.html)
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="estructura-basica-de-un-archivo-html">
+	<meta name="keywords" content="html">
+	<title>Estructura básica de un archivo html</title>
+	<link rel="stylesheet" href="">
+</head>
+<body>
+</body>
+</html>
 
 
 
