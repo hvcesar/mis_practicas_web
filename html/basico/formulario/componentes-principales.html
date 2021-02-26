@@ -8,9 +8,29 @@
 </head>
 <body>
 	<h1>Formularios en HTML</h1>
+	<!--
+		action: Dirección a donde se envía los datos
+		method: Forma de envío de datos
+	-->
 	<form action="" method="get">
+		<!--
+			label: Leyenda referente a un input
+			input: Tipo de campo de datos
+				Tiene atributos que son importantes para su correcta manipulación:
+					type: 
+					name: 
+					id: 
+				text: Todos los caracteres (Letras, números y caracteres raros)
+				number: Solo números
+
+				submit: Activa el envío de datos de todos los inputs
+		-->
 		<label for="">Nombre</label>
-		<input type="text" name="nombre" placeholder="Nombre">
+		<input type="text" name="nombre" placeholder="Solo letras">
+		<br>
+		<label for="">Año de nacimiento</label>
+		<input type="number" name="year" placeholder="Solo numeros">
+		<br>
 		<input type="submit" name="Enviar">
 	</form>
 </body>
