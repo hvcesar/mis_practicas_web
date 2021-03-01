@@ -2,18 +2,17 @@
 * [Imagen](/html/basico/basico/imagenes.html)
 * [Imagen con link](/html/basico/basico/imagen_a.html)
 
-* [Form - Resumido EN PROCESO](/html/basico/formulario/gen_resum.html)
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="estructura-basica-de-un-archivo-html">
-	<meta name="keywords" content="html">
-	<title>Estructura básica de un archivo html</title>
-	<link rel="stylesheet" href="">
+	<meta name="description" content="description">
+	<meta name="keywords" content="keywords">
+	<title>Estructura</title>
 </head>
 <body>
+	<div>
+	</div>
 </body>
 </html>
 
