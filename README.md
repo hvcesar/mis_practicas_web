@@ -1,5 +1,5 @@
 # Desarrollo web
-Ejercicios de los temas más básicos de html, css y js
+Ejemplos básicos de html, css y js
 
 ## html
 #### Básico
