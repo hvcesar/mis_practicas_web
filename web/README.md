@@ -14,3 +14,14 @@ Estructura de HTML y CSS
 * HTML: Hyper Text Markup Languaje, da la estructura a un sitio web.
 * 1994 se crea CSS: Cascade Style Sheets, series de reglas que describen la apariencia de un sitio web .
 
+---
+
+## **HTML y CSS**
+
+**HTML**:
+
+Lenguaje de marcado de hiper texto, nos permite dar la estructura e infromación de una página web y mostrarla en el navegador.
+
+**CSS**:
+
+Lenguaje de hojas de estilo que nos permite dar el diseño a las páginas web.
