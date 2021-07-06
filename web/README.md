@@ -1,18 +1,18 @@
 # Fundamentos del Frontend
 
-Estructura de HTML y CSS
+Conociendo un poco del funcionamiento de ***HTML** y **CSS**
 
 ---
 
 ## **Creación de la web**
-**Interconnected Network**: Red de computadoras conectadas en todo el mundo. Nace en los 80's
+**Internet** "Interconnected Network": Red de computadoras conectadas en todo el mundo. Nace en los 80's
 
-**Tim Berners Lee**: Creador de la **World Wide Web**, fundó el W3C, consorcio que estandariza y superviza las tecnologías del internet:
+**Tim Berners Lee**: Creador de la **World Wide Web**, comunmente llamado **web**, fundó el W3C, consorcio que se encarga de estandarizar y supervizar las tecnologías de la web:
 
-* HTTP: Hyper Text Transfer Protocol, permite la comunicación de datos entre dispositivos conectados a la red.
-* URL: Uniform Resource Locator: Dirección de un sitio web.
-* HTML: Hyper Text Markup Languaje, da la estructura a un sitio web.
-* 1994 se crea CSS: Cascade Style Sheets, series de reglas que describen la apariencia de un sitio web .
+* **HTTP** "Hyper Text Transfer Protocol": Permite la comunicación de datos entre dispositivos conectados a la red, ejemplo de dispositivos móviles, laptops a un servidor.
+* **URL** "Uniform Resource Locator": Dirección de un sitio web, punto exacto dentro de la red donde se encuentra algún recurso como un archivo, imagen o video, etc.
+* **HTML** "Hyper Text Markup Languaje": Da la estructura a un sitio web.
+* 1994 se crea CSS: Cascade Style Sheets, series de reglas que describen la apariencia de un sitio web.
 
 ---
 
@@ -20,8 +20,40 @@ Estructura de HTML y CSS
 
 **HTML**:
 
-Lenguaje de marcado de hiper texto, nos permite dar la estructura e infromación de una página web y mostrarla en el navegador.
+Lenguaje de marcado de hiper texto, nos permite dar la estructura e información de una página web y mostrarla en el navegador, tablas, listas, links, etc.
 
 **CSS**:
 
-Lenguaje de hojas de estilo que nos permite dar el diseño a las páginas web.
+Lenguaje de hojas de estilo que nos permite dar el diseño a las páginas web, como el color de la letra, color del fondo, tamaño de las letras, etc.
+
+---
+
+## **DOM, CSSOM, Render Tree y el proceso de renderizado de la Web**
+
+**DOM**: 
+
+Document Object Model: Forma en que el navegador transforma el código html escrito por el programador y lo convierte a objetos que el navegador pueda entender e interpretar para representarlos y renderizarlos al usuario final.
+
+Proceso del DOM:
+
+* Transforma el código html a bytes.
+* Convierte los bytes en caracteres en codificación especificada, normalmente en UTF-8.
+* Luego los caracteres son transformados en tokens (Etiquetas de html) ordenandolo por apertura y de cierre en base al W3C.
+* Transforma a nodos u objetos.
+* Organiza el DOM siguiendo la estructura de un arbol partiendo de la etiqueta html.
+
+**CSSDOM**
+
+Es la forma como el navegador procesa el lenguaje del CSS para insertarlo en la estructura previa del html y darle estilos a los objetos exitentes en el DOM.
+
+**RENDER TREE**
+
+Es donde se unen el DOM y el CSSOM en una estructura de arbol para poder ser renderizados para su presentación frente al usuario.
+
+* Procesa el HTML y se construye el DOM.
+* Se procesa el CSS y se construye el CSSOM.
+* se unen el DOM y el CSSOM en el RENDER TREE.
+* Se ejecuta el render tree.
+* Se pinta sobre el Navegador.
+
+---
