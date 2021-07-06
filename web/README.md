@@ -57,3 +57,38 @@ Es donde se unen el DOM y el CSSOM en una estructura de arbol para poder ser ren
 * Se pinta sobre el Navegador.
 
 ---
+
+## **Anatomía**
+
+**Elemento**
+
+Tienen etiquetas de apertura y de cierre, dentro de las etiquetas van el contenido.
+```html
+<h1>Contenido</h1>
+```
+
+**Atributo**
+
+Van dentro de la etiqueta de apertura. Se compone de una sintaxis: atributo y valor
+```html
+<h1 id="id_h1" class="cls_h1">Contenido</h1>
+```
+
+**Anidamiento**
+
+Cuando existen elementos que van dentro de otros elementos:
+```html
+<ul>
+    <li>Item uno</li>
+    <li>Item Dos</li>
+    <li>Item Tres</li>
+</ul>
+```
+
+**Elementos vacios**
+
+Etiquetas que no tienen cierre.
+```html
+<br />
+```
+
