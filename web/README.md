@@ -92,3 +92,22 @@ Etiquetas que no tienen cierre.
 <br />
 ```
 
+## **Anatomía de un documento HTML**
+
+```html
+<!DOCTYPE html> <!-- Decimos que vamos a trabajar con HTML% -->
+<html lang="es"> <!-- Especificamos el lenguaje -->
+<head> <!-- Etiqueta para la codificación de los caracteres y las metas -->
+    <meta charset="UTF-8"> <!-- Tipo de codificación -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!--  -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Este meta es utilizado para indicarle al navegador que el ancho total de nuestro sitio web será igual al ancho del dispositivo del usuario que esté ingresando a nuestra página (pc, celular, laptop, tablet, etc…) -->
+    <title>Document</title> <!-- Título que tendrá la pestaña en el navegador -->
+</head>
+<body> <!-- Todo lo que se verá en el navegador -->
+    <h1>Soy un título</h1>
+    <div>
+        <p>Soy un parrafo</p>
+    </div>
+</body>
+</html>
+```
