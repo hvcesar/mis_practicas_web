@@ -111,3 +111,46 @@ Etiquetas que no tienen cierre.
 </body>
 </html>
 ```
+
+## **Importancia del código semántico**
+
+Como desarrolladores debemos tener claro el significado de escribir código.
+
+La semántica HTML es darle sentido y estructura al codificar, no todos los elementos deben ser un div.
+
+**Beneficios**
+
+* Posicionamiento en buscadores, como mencionan ya algunos compañeros.
+* Accesibilidad: Hacer inclusiva la navegación para personas con discapacidad visual.
+* Mantenibilidad: Un código semántico es más fácil de entender para otros desarrolladores. Ahora no lo vemos, pero si navegamos entre los elementos de una página compleja veremos una estructura con múltiples niveles de profunidad que a la larga hacen MUY difícil el proceso de mantener un sitio web.
+* Reusabilidad: Este aspecto forma parte de la mantenibilidad. Es más fácil cambiar el diseño de un sitio semántico a través del uso de CSS que en uno cuya estructura sale fuera de los estándares.
+
+```html
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Frontend</title>
+    </head>
+    <body>
+        <div>
+            <header>
+                <div>Soy un div dentro del header</div>
+                <nav>
+                    <ol>
+                        <li>Uno</li>
+                        <li>Dos</li>
+                        <li>Tres</li>
+                    </ol>
+                </nav>
+            </header>
+            <section>
+                <p>Soy un párrafo dentro del section</p>
+            </section>
+            <footer>
+                <i>Soy un i dentro del footer</i>
+            </footer>
+        </div>
+    </body>
+</html>
+```
