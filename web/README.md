@@ -167,3 +167,17 @@ La semántica HTML es darle sentido y estructura al codificar, no todos los elem
 Un validador: https://validator.w3.org/
 
 ---
+
+## **Anatomía de una declaración css**
+
+Para declarar estilos CSS utiliza propiedades y valores, a este conjunto se le denomina declaración y su sintaxis incluye dos puntos después del nombre de la propiedad y un punto y coma para cerrar la declaración.
+
+```css
+p {
+    color: red;
+    font-size: 14px;
+}
+```
+
+---
+
