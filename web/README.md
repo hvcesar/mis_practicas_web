@@ -112,6 +112,8 @@ Etiquetas que no tienen cierre.
 </html>
 ```
 
+---
+
 ## **Importancia del código semántico**
 
 Como desarrolladores debemos tener claro el significado de escribir código.
@@ -120,9 +122,9 @@ La semántica HTML es darle sentido y estructura al codificar, no todos los elem
 
 **Beneficios**
 
-* Posicionamiento en buscadores, como mencionan ya algunos compañeros.
+* Posicionamiento en buscadores.
 * Accesibilidad: Hacer inclusiva la navegación para personas con discapacidad visual.
-* Mantenibilidad: Un código semántico es más fácil de entender para otros desarrolladores. Ahora no lo vemos, pero si navegamos entre los elementos de una página compleja veremos una estructura con múltiples niveles de profunidad que a la larga hacen MUY difícil el proceso de mantener un sitio web.
+* Mantenibilidad: Un código semántico es más fácil de entender para otros desarrolladores.
 * Reusabilidad: Este aspecto forma parte de la mantenibilidad. Es más fácil cambiar el diseño de un sitio semántico a través del uso de CSS que en uno cuya estructura sale fuera de los estándares.
 
 ```html
@@ -154,3 +156,14 @@ La semántica HTML es darle sentido y estructura al codificar, no todos los elem
     </body>
 </html>
 ```
+
+---
+
+## **Tipos de errores en html**
+
+* Errores Sintácticos: Escritura del código.
+* Errores Lógicos: La función que cumple una acción al no ser ejecutada como se desea.
+
+Un validador: https://validator.w3.org/
+
+---
