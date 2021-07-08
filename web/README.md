@@ -1,11 +1,11 @@
 # Fundamentos del Frontend
 
-Conociendo un poco del funcionamiento de ***HTML** y **CSS**
+Conociendo un poco del funcionamiento de **HTML** y **CSS**
 
 ---
 
 ## **Creación de la web**
-**Internet** "Interconnected Network": Red de computadoras conectadas en todo el mundo. Nace en los 80's
+**Internet** "Interconnected Network": Red de computadoras conectadas en todo el mundo.
 
 **Tim Berners Lee**: Creador de la **World Wide Web**, comunmente llamado **web**, fundó el W3C, consorcio que se encarga de estandarizar y supervizar las tecnologías de la web:
 
@@ -36,10 +36,10 @@ Document Object Model: Forma en que el navegador transforma el código html escr
 
 Proceso del DOM:
 
-* Transforma el código html a bytes.
-* Convierte los bytes en caracteres en codificación especificada, normalmente en UTF-8.
-* Luego los caracteres son transformados en tokens (Etiquetas de html) ordenandolo por apertura y de cierre en base al W3C.
-* Transforma a nodos u objetos.
+* Convierte el html a bytes.
+* Convierte los bytes en caracteres UTF-8, dependiendo de las especificación dada.
+* Convierte los carácteres en tokens (Etiquetas de html) ordenándolo por apertura y de cierre en base al W3C.
+* Los convierte a nodos u objetos.
 * Organiza el DOM siguiendo la estructura de un arbol partiendo de la etiqueta html.
 
 **CSSDOM**
@@ -95,12 +95,12 @@ Etiquetas que no tienen cierre.
 ## **Anatomía de un documento HTML**
 
 ```html
-<!DOCTYPE html> <!-- Decimos que vamos a trabajar con HTML% -->
-<html lang="es"> <!-- Especificamos el lenguaje -->
+<!DOCTYPE html> <!-- Decimos que vamos a trabajar con HTML5 -->
+<html lang="es"> <!-- Especificamos el idioma -->
 <head> <!-- Etiqueta para la codificación de los caracteres y las metas -->
     <meta charset="UTF-8"> <!-- Tipo de codificación -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!--  -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Este meta es utilizado para indicarle al navegador que el ancho total de nuestro sitio web será igual al ancho del dispositivo del usuario que esté ingresando a nuestra página (pc, celular, laptop, tablet, etc…) -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Ni idea jaja -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Indicarle al navegador que el ancho total de nuestro sitio web será igual al ancho del dispositivo del usuario que esté ingresando a nuestra página (pc, celular, laptop, tablet, etc…) -->
     <title>Document</title> <!-- Título que tendrá la pestaña en el navegador -->
 </head>
 <body> <!-- Todo lo que se verá en el navegador -->
@@ -215,3 +215,4 @@ Documentación de Pseudo-elements https://developer.mozilla.org/en-US/docs/Web/C
 
 ---
 
+## **Módelo de caja**
