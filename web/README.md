@@ -181,3 +181,37 @@ p {
 
 ---
 
+## **Tipos de selectores*
+
+**Universal**: * Todos los elementos HTML
+```css
+* {
+    margin: 0;
+}
+```
+
+**De tipo**
+```css
+h1 {
+    color: red;
+}
+```
+
+**Pseudo clases**:
+```css
+p:first-child {
+    color: white;
+}
+```
+Documentación de Pseudo-classes https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+
+**Pseudo elementos**:
+```css
+p::nth-child(2n) {
+    color: red;
+}
+```
+Documentación de Pseudo-elements https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
+
+---
+
