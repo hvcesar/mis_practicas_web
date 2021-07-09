@@ -175,7 +175,7 @@ La semántica HTML es darle sentido y estructura al codificar, no todos los elem
 * Errores Sintácticos: Escritura del código.
 * Errores Lógicos: La función que cumple una acción al no ser ejecutada como se desea.
 
-Un validador: https://validator.w3.org/
+Un validador de archivos html: https://validator.w3.org/
 
 ---
 
@@ -192,7 +192,7 @@ p {
 
 ---
 
-## **Tipos de selectores*
+## **Tipos de selectores**
 
 **Universal**: * Todos los elementos HTML
 ```css
@@ -201,14 +201,14 @@ p {
 }
 ```
 
-**De tipo**
+**De tipo o etiquetas**
 ```css
 h1 {
     color: red;
 }
 ```
 
-**Pseudo clases**:
+**Pseudo-clases**:
 ```css
 p:first-child {
     color: white;
@@ -216,7 +216,7 @@ p:first-child {
 ```
 Documentación de Pseudo-classes https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
 
-**Pseudo elementos**:
+**Pseudo-elements**:
 ```css
 p::nth-child(2n) {
     color: red;
