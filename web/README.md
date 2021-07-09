@@ -127,20 +127,20 @@ Etiquetas más usados:
 
 ## **Importancia del código semántico**
 
-Como desarrolladores debemos tener claro el significado de escribir código.
+Al programar se debe tener muy claro el significado del código.
 
-La semántica HTML es darle sentido y estructura al codificar, no todos los elementos deben ser un div.
+La semántica HTML es darle sentido y estructura al codificar, no todos los elementos deben ser un div, cada etiqueta tiene su razón de ser.
 
 **Beneficios**
 
-* Posicionamiento en buscadores.
+* SEO: Posicionamiento en buscadores.
 * Accesibilidad: Hacer inclusiva la navegación para personas con discapacidad visual.
 * Mantenibilidad: Un código semántico es más fácil de entender para otros desarrolladores.
-* Reusabilidad: Este aspecto forma parte de la mantenibilidad. Es más fácil cambiar el diseño de un sitio semántico a través del uso de CSS que en uno cuya estructura sale fuera de los estándares.
+* Reusabilidad: Forma parte de la mantenibilidad. Es más fácil cambiar el diseño de un sitio semántico a través del uso de CSS que en uno cuya estructura sale de los estándares.
 
 ```html
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="es">
     <head>
         <meta charset="utf-8">
         <title>Frontend</title>
