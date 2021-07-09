@@ -76,7 +76,7 @@ Atributos para todos los elementos más usados:
 * class
 * style
 * width
-* heigth
+* height
 ```html
 <h1 id="id_h1" class="cls_h1">Contenido</h1>
 ```
@@ -227,3 +227,14 @@ Documentación de Pseudo-elements https://developer.mozilla.org/en-US/docs/Web/C
 ---
 
 ## **Módelo de caja**
+
+El tamaño de los elementos se asignan con la propiedad width y height.
+
+Todos los elementos de html tienen un concepto llamado: **Módelo de caja**, el cual es comformado por los siguientes elementos que cambian completamente el módelo de caja:
+
+* Content
+* Padding
+* Border
+* Margin
+
+
