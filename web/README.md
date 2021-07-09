@@ -233,8 +233,37 @@ El tamaño de los elementos se asignan con la propiedad width y height.
 Todos los elementos de html tienen un concepto llamado: **Módelo de caja**, el cual es comformado por los siguientes elementos que cambian completamente el módelo de caja:
 
 * Content
+```css
+#main {
+    width: 100%;
+    height: 50px;
+}
+```
 * Padding
+```css
+#main {
+    padding: 10px;
+}
+#header {
+    padding: 10px 20px;
+}
+#body {
+    padding: 5px 10px 10px 30px;
+}
+```
 * Border
+```css
+#main {
+    border: 1px solid black;
+}
+```
 * Margin
+```css
+#main {
+    margin: 10px;
+}
+```
 
+**NOTA**: Al asignar valores de padding, margen y border modifican el tamaño del módelo, para evitar esto, al final de todas las propiedades se debe usar la siguiente propiedad: **box-sizing: border-box;**
 
+---
