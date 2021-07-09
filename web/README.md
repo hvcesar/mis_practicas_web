@@ -69,7 +69,14 @@ Tienen etiquetas de apertura y de cierre, dentro de las etiquetas van el conteni
 
 **Atributo**
 
-Van dentro de la etiqueta de apertura. Se compone de una sintaxis: atributo y valor
+Van dentro de la etiqueta de apertura. Sintaxis: atributo="valor".
+
+Atributos para todos los elementos más usados:
+* id
+* class
+* style
+* width
+* heigth
 ```html
 <h1 id="id_h1" class="cls_h1">Contenido</h1>
 ```
@@ -88,6 +95,10 @@ Cuando existen elementos que van dentro de otros elementos:
 **Elementos vacios**
 
 Etiquetas que no tienen cierre.
+
+Etiquetas más usados:
+* img
+* br
 ```html
 <br />
 ```
