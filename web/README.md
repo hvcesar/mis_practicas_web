@@ -267,3 +267,22 @@ Todos los elementos de html tienen un concepto llamado: **Módelo de caja**, el 
 **NOTA**: Al asignar valores de padding, margen y border modifican el tamaño del módelo, para evitar esto, al final de todas las propiedades se debe usar la siguiente propiedad: ***box-sizing: border-box;**
 
 ---
+
+## **Medidas del CSS**
+
+Nos permite dar tamaños a las fuentes, elementos, imagenes, etc.
+
+* **Absolutas**: Medidas que no cambian "pixeles **px**".
+* **Relativas**: Cambian dependiendo a otros elementos, "porcentajes **%**", "**em**" y "**rem**".
+
+#### **EM**: Toma como referencia el tamaño de su padre directo
+
+16px -> 1em
+
+1em -> 16px
+
+2em -> 32px
+
+#### **REM**: Toma como referencia el tamaño de la etiqueta **html** cuyo valor por defecto es 16px.
+
+---
