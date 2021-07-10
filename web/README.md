@@ -232,14 +232,14 @@ El tamaño de los elementos se asignan con la propiedad width y height.
 
 Todos los elementos de html tienen un concepto llamado: **Módelo de caja**, el cual es comformado por los siguientes elementos que cambian completamente el módelo de caja:
 
-* Content
+* Content: Texto, imagen, video, etc.
 ```css
 #main {
     width: 100%;
     height: 50px;
 }
 ```
-* Padding
+* Padding: Relleno que envuelve el contenido.
 ```css
 #main {
     padding: 10px;
@@ -251,19 +251,19 @@ Todos los elementos de html tienen un concepto llamado: **Módelo de caja**, el 
     padding: 5px 10px 10px 30px;
 }
 ```
-* Border
+* Border: Espacio que determina el perímetro del elemento.
 ```css
 #main {
     border: 1px solid black;
 }
 ```
-* Margin
+* Margin: Espacio que rodea al elemento.
 ```css
 #main {
     margin: 10px;
 }
 ```
 
-**NOTA**: Al asignar valores de padding, margen y border modifican el tamaño del módelo, para evitar esto, al final de todas las propiedades se debe usar la siguiente propiedad: **box-sizing: border-box;**
+**NOTA**: Al asignar valores de padding, margen y border modifican el tamaño del módelo, para evitar esto, al final de todas las propiedades se debe usar la siguiente propiedad: ***box-sizing: border-box;**
 
 ---
