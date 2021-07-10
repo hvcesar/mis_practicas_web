@@ -289,10 +289,19 @@ Nos permite dar tamaños a las fuentes, elementos, imagenes, etc.
 
 ## **Display en CSS**
 
-* **block**
-* **inline**
+* **block**: 
+Ordena los elementos de arriba hacia abajo dando saltos de linea.
+* **inline**:
+Ordena de izquierda a derecha.
 * **inline-block**
+Ordena de izquierda a derecha, respetando el tamaño de los elementos.
 * **none**
+Oculta elementos sin eliminarlos del DOM.
 * **table**
+Ordena como elementos de tabla.
 * **flex**
+...
+* **grid**
+...
 
+---
