@@ -324,3 +324,21 @@ Hereda el pocisionamiento del elemento padre.
 ...
 
 ---
+
+## **Arquitecturas CSS**
+
+**Objetivos**:
+* Predecible: Escribir reglas claras.
+* Reutilizables: No redundar.
+* Mantenible: Fácil de leer.
+* Fácil de crecer en caso de que el proyecto se haga más grande.
+
+**Buenas prácticas**
+
+* Tener reglas para todo el equipo.
+* Explicar a cada nuevo integrante del equipo.
+* Estándares.
+* Documentación.
+* Evitar hojas muy largas.
+
+---
