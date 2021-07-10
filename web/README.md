@@ -305,3 +305,22 @@ Ordena como elementos de tabla.
 ...
 
 ---
+
+## **Posicionamiento en CSS**
+
+* **static**: 
+Sigue el flujo del documento, por defecto.
+* **relative**: 
+Se mueve desde su posición original.
+* **absolute**: 
+Se mueve desde la posición de su elemento padre.
+* **fixed**: 
+Se mueve desde la pocisión de la ventana del navegador.
+* **inherit**: 
+Hereda el pocisionamiento del elemento padre.
+* **sticky**: 
+...
+* **initial**: 
+...
+
+---
