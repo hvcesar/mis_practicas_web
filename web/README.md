@@ -286,3 +286,13 @@ Nos permite dar tamaños a las fuentes, elementos, imagenes, etc.
 #### **REM**: Toma como referencia el tamaño de la etiqueta **html** cuyo valor por defecto es 16px.
 
 ---
+
+## **Display en CSS**
+
+* **block**
+* **inline**
+* **inline-block**
+* **none**
+* **table**
+* **flex**
+
