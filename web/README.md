@@ -403,3 +403,13 @@ El código css va en la parte del head en una etiqueta **style** o en un archivo
 
 
 _Anotacion: No es tan buena practica usar !important_
+
+---
+
+## **Componentes**
+
+Elementos pequeños que se pueden reutilizar en otras partes de la aplicación.
+
+_Una herramienta útil: [Storybook](https://storybook.js.org/)_
+
+---
