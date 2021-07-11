@@ -342,3 +342,64 @@ Hereda el pocisionamiento del elemento padre.
 * Evitar hojas muy largas.
 
 ---
+## **Algunas Arquitecturas CSS**
+
+#### **OOCSS**
+
+**CSS Orientado a objetos**: Separa el diseño del conteindo.
+
+El código css va en la parte del head en una etiqueta **style** o en un archivo externo.
+
+```html
+<head>
+    <style>
+        /*objeto global*/
+        .globalwidth{
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header class="header globalwidth">
+    </header>
+    <footer class="footer globalwidth">
+    </footer>
+</body>
+```
+#### **BEM**
+
+**Block element modifier**: Separa los elementos y los modificadores.
+
+```html
+<body>
+    <header class="header">
+        <!-- header=bloque | button=elemento | red=modificador | -->
+        <button class="header__button--red">
+        </button>
+        <button class="header__button--yellow">
+        </button>
+    </header>
+</body>
+```
+```css
+.header__button--red {}
+```
+
+#### **SMACSS**
+
+**Scalable and Modular Arquitecture for CSS**: Arquitectura de css escalable y modular.
+
+* Dividir nuestro css en componentes base.
+* Definir Layout. Elementos que se utilizan solo una vez. ej. Footer, Header.
+* Definir Modulos. Componentes que se usan mas de una vez.
+* Definir Estados. Estos estados definen los cambios que existen en nuestros elementos/componentes. ej. Cambio de color cuando hacen hover.
+* Definir Temas. Separar los temas y sus cambios. Si tuvieras temas.
+
+#### **ITCSS**
+
+**Inverted Triangle CSS**. Triangulo Invertido de CSS. Lo que nos indica esta metodologia es poder dividir todos nuestros archivos de css en ciertas partes para que no se mezclen.
+
+#### **ATOMIC DESIGN**
+
+
+_Anotacion: No es tan buena practica usar !important_
