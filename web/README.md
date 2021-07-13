@@ -413,3 +413,7 @@ Elementos pequeños que se pueden reutilizar en otras partes de la aplicación.
 _Una herramienta útil: [Storybook](https://storybook.js.org/)_
 
 ---
+
+## **Menú desplegable**
+
+[Ejemplo completo](html/menu_desplegable.html)
