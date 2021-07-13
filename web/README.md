@@ -420,7 +420,9 @@ _Una herramienta útil: [Storybook](https://storybook.js.org/)_
 
 [Paleta de colores](https://coolors.co/1d2f6f-8390fa-fac748-f9e9ec-f88dad)
 
-[Íconos gratis](https://www.flaticon.com/)
+[Íconos gratis - 1](https://www.flaticon.com/)
+
+[Íconos gratis - 2](https://iconos8.es/)
 
 ---
 
