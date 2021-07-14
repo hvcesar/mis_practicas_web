@@ -1,30 +1,34 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Menú desplegable</title>
+    <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
     <style>
         * {
             margin: 0px;
             padding: 0px;
+            /* HELP DEBUG */
+            /* outline: 1px solid red; */
         }
         body {
             margin: 0;
-            background-color: #AB88FF;
+            background-color: #1b1b1b;
             font-family: 'Muli', sans-serif;
         }
         .header {
             width: 100%;
             height: 60px;
-            background-color: #AB88FF;
+            background-color: #1b1b1b;
+            /* ESTUDIAR ÉSTA MADRE */
             display: flex;
             justify-content: space-between;
-            /* align-items: center; */
+            align-items: center;
         }
         .header__img {
-            width: 50px;
+            width: 30px;
             margin-top: 10px;
             margin-left: 10px;
         }
@@ -36,77 +40,38 @@
             list-style: none;
             padding: 0px;
             position: absolute;
-            width: 100px;
+            width: 150px;
             text-align: right;
-            margin: 0px 0px 0px -14px;
+            margin: 0px 0px 0px -64px;
         }
-        .header__menu:hover ul { 
+        /* ESTADIAR ÉSTA MADRE */
+        .header__menu:hover .header__dropdown { 
             /* Cuando le den un hiver al .header__menu las ul toman la propiedad dada aquí */
-            /*  */
+            /* AL igual con las ul dentro del mismo div */
             display: block;
+        }
+        .header__menu li {
+            margin: 10px 10px;
+        }
+        .header__menu li a {
+            color: white;
+            text-decoration: none;
+        }
+        .header__menu li a:hover {
+            text-decoration: underline;
         }
         .header__menu--profile {
             margin-right: 8px;
-            width: 40px;
-            /* display: flex; */
-            /* align-items: center; */
-
-        }
-        .header__menu li {
-            /* margin: 10px 10px; */
-        }
-        .header__menu li a {
-            /* color: white; */
-            /* text-decoration: none; */
-        }
-        .header__menu li a:hover {
-            /* text-decoration: underline; */
+            display: flex;
+            align-items: center;
         }
         .header__menu--profile img {
-            /* margin-right: 8px; */
-            /* width: 30px; */
+            margin-right: 8px;
+            width: 30px;
         }
         .header__menu--profile p {
-            /* margin: 0px; */
-            /* color: white; */
-        }
-        .header__menu {
-            /* margin-right: 30px; */
-        }
-        .header__menu ul { 
-            /* display: none; */
-            /* list-style: none; */
-            /* padding: 0px; */
-            /* position: absolute; */
-            /* width: 100px; */
-            /* text-align: right; */
-            /* margin: 0px 0px 0px -14px; */
-        }
-        .header__menu:hover ul, ul:hover { 
-            /* display: block; */
-        }
-        .header__menu li {
-            /* margin: 10px 10px; */
-        }
-        .header__menu li a {
-            /* color: white; */
-            /* text-decoration: none; */
-        }
-        .header__menu li a:hover {
-            /* text-decoration: underline; */
-        }
-        .header__menu--profile {
-            /* margin-right: 8px; */
-            /* width: 40px; */
-            /* display: flex; */
-            /* align-items: center; */
-        }
-        .header__menu--profile img {
-            /* margin-right: 8px; */
-        }
-        .header__menu--profile p {
-            /* margin: 0px; */
-            /* color: white; */
+            margin: 0px;
+            color: white;
         }
     </style>
 </head>
@@ -118,7 +83,7 @@
                 <img src="img/user.png" alt="Logo perfil">
                 <p>Perfil</p>
             </div>
-            <ul>
+            <ul class="header__dropdown">
                 <li>
                     <a href="/">Cuenta</a>
                 </li>

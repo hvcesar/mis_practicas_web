@@ -424,5 +424,9 @@ _Una herramienta útil: [Storybook](https://storybook.js.org/)_
 
 [Íconos gratis - 2](https://iconos8.es/)
 
+[Juego didáctico con selectores](https://flukeout.github.io/)
+
+[Juego didáctico con flexbox](https://flexboxfroggy.com/#es)
+
 ---
 
