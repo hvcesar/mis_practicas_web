@@ -73,6 +73,32 @@
             margin: 0px;
             color: white;
         }
+        .main {
+            height: 300px;
+            display: flex; /* Actua como float */
+            flex-direction: column; /* Los acomoda como bloques */
+            justify-content: center; /* Centra horizontalmente*/
+            align-items: center;
+        }
+        .main__title {
+            color: white;
+            font-size: 25px;
+        }
+        .input {
+            border: 2px solid white;
+            border-radius: 25px;
+            font-family: 'Muli', sans-serif;
+            font-size: 16px;
+            height: 50px;
+            padding: 0 20px;
+            width: 70%;
+            background-color: rgba(255, 255, 255, 0.1);
+            outline: none;
+            margin: 20px;
+        }
+        ::placeholder {
+            color: white;
+        }
     </style>
 </head>
 <body>
@@ -95,9 +121,9 @@
     </header>
     <section class="main">
         <h2 class="main__title">
-            ¿What you see today?
+            What do you want to see today?
         </h2>
-        <input class="main__input" type="text" placeholder="Search">
+        <input class="input" type="text" placeholder="Search...">
     </section>
 </body>
 </html>
