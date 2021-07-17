@@ -110,37 +110,50 @@
         /* ----- */
         /* ----- */
         /* ----- */
-        .carousel{
+        .carousel {
             width: 100%;
             overflow: scroll;
-            padding: 30px;
+            /* padding: 30px; */
+            /* Relative para que los elementos que hereden se ajusten con base en este elemento. */
             position: relative;
         }
-        .carousel__container{
+        /* Efecto scroll sin ver los elementos del scroll */
+        ::-webkit-scrollbar {
+            display: none;
+        }
+        .carousel__container {
+            /* Enlista todos los elementos en un solo renglón. */
             white-space: nowrap;
             margin: 70px 0px;
             padding-bottom: 10px;
+            /* display: flex; */
         }
-        .carousel__item{
+        .carousel__item {
             background-color: tomato;
             width: 200px;
             height: 250px;
             border-radius: 20px;
+            /* El contenido es recortado y no se muestran barras de posición. */
             overflow: hidden;
             margin-right: 10px;
+            /* Un item al lado del otro. */
             display: inline-block;
             cursor: pointer;
             transition: 350ms;
             transform-origin: center left;
         }
-
+        /* El combinador ~ separa dos selectores y selecciona el segundo elemento sólo si está precedido por el primero y ambos comparten un padre común. */
+        /* Solo afecta al de la derecha. */
         .carousel__item:hover ~ .carousel__item {
+            /* Esta linea inidica que todos los elementos posteriores al item de la clase .carousel__item que se encuentra en estado hover, seran transladados 100px en el eje x. */
             transform: translate3d(100px, 0, 0);    
         }
-        .carousel__container:hover .carousel__item{
+        .carousel__container:hover .carousel__item {
+            /* Esta linea de codigo indica que al momento de que el container(donde se alojan todos los items) todos los elementos con la clase .carousel_item tendran una opacidad de 0.3 en una escala de 0 a 1 o bien el 30% de su opacidad original. */
             opacity: 0.3;
         }
-        .carousel__container:hover .carousel__item:hover{
+        .carousel__container:hover .carousel__item:hover {
+            /* Esta linea de codigo nos indica que unicamente el item, que se necuentre en estado hover recibira los cambios hechos dentro del selector. */
             transform: scale(1.5);
             opacity: 1;
         }
